@@ -1,5 +1,4 @@
-# DO NOT SEND PULL REQUEST FOR NOW
-## WORK IS IN PROGRESS
+## Translation Instructions
 
  You have to modify total 4 files: 
  - `index.html`,
