@@ -61,5 +61,15 @@
     ],
     "link": "https://github.com/at3mic",
     "avatar": "https://avatars.githubusercontent.com/u/295322090?v=4"
+  },
+  {
+    "name": "Anonymous",
+    "role": "Translator",
+    "languages": [
+      "de",
+      "ro"
+    ],
+    "link": "",
+    "avatar": ""
   }
 ]
