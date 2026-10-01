@@ -71,5 +71,13 @@
     ],
     "link": "",
     "avatar": ""
+    {
+    "name": "crackeren",
+    "role": "Translator",
+    "languages": [
+      "tr"
+    ],
+    "link": "https://github.com/crackeren",
+    "avatar": "https://avatars.githubusercontent.com/u/76584284?v=4"
   }
 ]
