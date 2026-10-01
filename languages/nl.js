@@ -17,7 +17,7 @@ window.i18nDict.nl = {
   /* Quick Actions */
   "Quick Actions": "Snelle acties",
   "Bootloader Spoofers": "Bootloader-spoofers",
-  "Control which app will use keybox": "Bepaal welke apps de keybox gebruiken",
+  "Control which app will use keybox": "Bepalen welke apps de keybox gebruiken",
   "Prop Spoofing": "Prop-spoofing",
   "Global system property spoof": "Globale spoofing van systeemeigenschappen",
   "Module Settings": "Module-instellingen",
@@ -46,7 +46,7 @@ window.i18nDict.nl = {
 
   "Reset UI settings?": "UI-instellingen resetten?",
   "All interface settings will be restored to their default values.": "Alle interface-instellingen worden teruggezet naar hun standaardwaarden.",  "UI Layout": "UI-indeling",
-  "Standard": "Standard",
+  "Standard": "Standaard",
   "Enhanced": "Uitgebreid",
   "Edge swipe to back": "Randveeg voor terug",
   "Swipe from the configured screen edge": "Veeg vanaf de ingestelde schermrand",
@@ -69,7 +69,7 @@ window.i18nDict.nl = {
   "Edge gesture side": "Kant van het randgebaar",
   "Left edge": "Linkerrand",
   "Right edge": "Rechterrand",
-  "When Floating back button is enabled, edge back gestures are disabled automatically for opened iframe tools.": "Als de zwevende terugknop aan staat, worden de terug-randgebaren in geopende tools automatisch uitgeschakeld.",
+  "When Floating back button is enabled, edge back gestures are disabled automatically for opened iframe tools.": "Als de zwevende terugknop aan staat, worden de randgebaren voor terug in geopende tools automatisch uitgeschakeld.",
 
   /* Logs */
   "LOG FILES": "LOGBESTANDEN",
@@ -134,7 +134,7 @@ window.i18nDict.nl = {
   "Support": "Ondersteuning",
   "Report a Problem": "Probleem melden",
   "Send feedback to the developer": "Feedback naar de ontwikkelaar sturen",
-  "Ask Assistant": "Vraag de assistent",
+  "Ask Assistant": "Assistent raadplegen",
   "Get help and guidance": "Hulp en uitleg krijgen",
   "WebUI Translation Team": "WebUI-vertaalteam",
   "Thanks to these people": "Met dank aan deze mensen",
@@ -164,7 +164,7 @@ window.i18nDict.nl = {
   "CPU": "CPU",
   "Integrity Box Configuration": "Integrity Box-configuratie",
   "Profile": "Profiel",
-  "Custom ROM Props": "Custom ROM-props",
+  "Custom ROM Props": "Custom-ROM-props",
   "SELinux Status": "SELinux-status",
   "Pixel Canary Config": "Pixel Canary-configuratie",
   "System Security Patch": "Systeembeveiligingspatch",
@@ -212,7 +212,7 @@ window.i18nDict.nl = {
   "Switched to Blacklist Mode": "Overgeschakeld naar blacklistmodus",
   "Switched to Whitelist Mode": "Overgeschakeld naar whitelistmodus",
   "Scanning xml files..": "XML-bestanden scannen..",
-  "Spoof your device to app": "Spoof je apparaat richting apps",
+  "Spoof your device to app": "Je apparaat spoofen tegenover apps",
   "Opening configuration..": "Configuratie openen..",
   "All changes will be applied immediately": "Alle wijzigingen worden direct toegepast",
   "These will be applied till reboot": "Deze gelden tot de volgende herstart",
@@ -235,7 +235,7 @@ window.i18nDict.nl = {
   "Informs you about keybox & fingerprint validity": "Informeert je over de geldigheid van keybox & fingerprint",
   "Coming Soon": "Binnenkort",
   "These doesn't require reboot": "Deze vereisen geen herstart",
-  "These are for custom ROM users": "Deze zijn voor custom ROM-gebruikers",
+  "These are for custom ROM users": "Deze zijn voor custom-ROM-gebruikers",
   "Updates keybox & fp automatically whether a new key is available": "Werkt keybox & fingerprint automatisch bij zodra er een nieuwe key beschikbaar is",
   "Some useful stuff you may need": "Handige dingen die je misschien nodig hebt",
   "Paste your boot hash buddy": "Plak je boot-hash hier, maat",
@@ -340,7 +340,7 @@ window.i18nDict.nl = {
   "Meow Downloader": "Meow Downloader",
   "Output: /sdcard/Download/IntegrityModules": "Uitvoer: /sdcard/Download/IntegrityModules",
   "Select All": "Alles selecteren",
-  "Clear All": "Alles wissen",
+  "Clear All": "Selectie wissen",
   "Download Selected": "Selectie downloaden",
   "Download Progress": "Downloadvoortgang",
   "Modules": "Modules",
@@ -361,7 +361,7 @@ window.i18nDict.nl = {
 
   /* Toasts */
   "All items selected": "Alle items geselecteerd",
-  "All items cleared": "Alle items gewist",
+  "All items cleared": "Selectie gewist",
   "Nothing selected": "Niets geselecteerd",
   "No curl/wget found!": "Geen curl/wget gevonden!",
   "KSU API unavailable": "KSU-API niet beschikbaar",
@@ -463,7 +463,7 @@ window.i18nDict.nl = {
   "No Redirect": "Geen doorverwijzing",
 
   /* General Descriptions */
-  "Forces to appear as Pixel Device & use latest security patch if using Oh My Keymint module": "Laat het apparaat verschijnen als Pixel met de nieuwste beveiligingspatch als je de module Oh My Keymint gebruikt",
+  "Forces to appear as Pixel Device & use latest security patch if using Oh My Keymint module": "Laat het apparaat zich voordoen als Pixel met de nieuwste beveiligingspatch als je de module Oh My Keymint gebruikt",
   "This will skip modifications in config.json": "Dit slaat wijzigingen in config.json over",
   "This fixes keybox download errors in some regions": "Dit verhelpt downloadfouten van de keybox in sommige regio’s",
   "Disables automatic Telegram link redirects from the WebUI.": "Schakelt automatische doorverwijzingen naar Telegram vanuit de WebUI uit.",
@@ -679,7 +679,7 @@ window.i18nDict.nl = {
   "System Status": "Systeemstatus",
   "Automation Service": "Automatiseringsdienst",
   "Checking...": "Controleren...",
-  "Active and running": "Actief en draait",
+  "Active and running": "Actief en in werking",
   "Disabled": "Uitgeschakeld",
   "Daemon Heartbeat": "Daemon-heartbeat",
   "Last GitHub Check": "Laatste GitHub-controle",
@@ -757,7 +757,7 @@ window.i18nDict.nl = {
   "This feature depends on Zygisk. You're running in Zygisk-less mode, so per-app spoofing is unavailable.": "Deze functie heeft Zygisk nodig. Je gebruikt de modus zonder Zygisk, dus spoofing per app is niet beschikbaar.",
 
   /* App List */
-  "App List": "Appslijst",
+  "App List": "Applijst",
   "System Apps": "Systeem-apps",
   "Backup": "Backup",
   "Restore": "Herstellen",
@@ -838,7 +838,7 @@ window.i18nDict.nl = {
   "Latest canary imprint": "Nieuwste Canary-fingerprint",
   "System build Properties": "Systeem-build-eigenschappen",
   "GMS properties": "GMS-eigenschappen",
-  "Breaks Google Wallet": "Breekt Google Wallet",
+  "Breaks Google Wallet": "Maakt Google Wallet onbruikbaar",
   "OEM-signed mask": "OEM-ondertekend masker",
   "Use if keybox is banned": "Gebruik als de keybox geblokkeerd is",
 
@@ -894,15 +894,15 @@ window.i18nDict.nl = {
   "Pixelify": "Pixelify",
   "Build, device, fingerprint, and system properties will be spoofed to match a certified device profile recognized by the Play Store. Google services will interpret the device as a Google Pixel device.": "Build-, apparaat-, fingerprint- en systeemeigenschappen worden zo gespooft dat ze overeenkomen met een gecertificeerd apparaatprofiel dat de Play Store herkent. Google-services zien het apparaat als een Google Pixel.",
   "Supreme": "Supreme",
-  "This only spoofs your device fingerprint for the Play Store. Helpful if your device fingerprint got banned by google or broken/completely rekt due to your custom ROM maintainer’s skill issue. Your device will be recognized as a certified Google Pixel device.": "Spooft alleen de fingerprint van je apparaat voor de Play Store. Handig als je fingerprint door Google is geblokkeerd of kapot/compleet om zeep is geholpen door het gebrek aan skills van je custom ROM-maintainer. Je apparaat wordt herkend als een gecertificeerde Google Pixel.",
+  "This only spoofs your device fingerprint for the Play Store. Helpful if your device fingerprint got banned by google or broken/completely rekt due to your custom ROM maintainer’s skill issue. Your device will be recognized as a certified Google Pixel device.": "Spooft alleen de fingerprint van je apparaat voor de Play Store. Handig als je fingerprint door Google is geblokkeerd of kapot/compleet om zeep is geholpen door het gebrek aan skills van je custom-ROM-maintainer. Je apparaat wordt herkend als een gecertificeerde Google Pixel.",
   "Legacy": "Legacy",
-  "Best suited for Android 12 and below. Works fine as long as your current device fingerprint hasn’t been blacklisted or rekt by your custom ROM maintainer.": "Het meest geschikt voor Android 12 en ouder. Werkt prima zolang de huidige fingerprint van je apparaat niet op de blacklist staat of door je custom ROM-maintainer is verpest.",
+  "Best suited for Android 12 and below. Works fine as long as your current device fingerprint hasn’t been blacklisted or rekt by your custom ROM maintainer.": "Het meest geschikt voor Android 12 en ouder. Werkt prima zolang de huidige fingerprint van je apparaat niet op de blacklist staat of door je custom-ROM-maintainer is verpest.",
   "Meta": "Meta",
   "Experimental feature (luck based)": "Experimentele functie (op goed geluk)",
 
   /* Action Information */
   "Actions": "Acties",
-  "Nukes GMS files. this can fix or break RCS G-Wallet/Pay.": "Wist de GMS-bestanden rigoureus. Dit kan RCS en G-Wallet/Pay repareren of juist breken.",
+  "Nukes GMS files. this can fix or break RCS G-Wallet/Pay.": "Wist de GMS-bestanden rigoureus. Dit kan RCS en G-Wallet/Pay herstellen, maar ook stukmaken.",
   "Opens APK Mirror to download an older Play Store version that may help pass integrity. You can try downgrading your playstore version with this version using CorePatch lsposed module": "Opent APK Mirror om een oudere Play Store-versie te downloaden die kan helpen om de integriteitscontrole te halen. Met de LSPosed-module CorePatch kun je proberen je Play Store naar deze versie te downgraden",
 
   /* Loader */
@@ -930,7 +930,7 @@ window.i18nDict.nl = {
 
   /* Controls */
   "Select All": "Alles selecteren",
-  "Clear All": "Alles wissen",
+  "Clear All": "Selectie wissen",
   "Duck Props": "Duck Props",
   "Duck Props ON": "Duck Props AAN",
   "Hook Props": "Hook Props",
@@ -1143,7 +1143,7 @@ window.i18nDict.nl = {
   "powered by IntegrityBox": "powered by IntegrityBox",
   "Info": "Info",
   "%": "%",
-  "Click Me": "Tik op mij",
+  "Click Me": "Tik hier",
 
   /* Status */
   "Ready to Repair": "Klaar om te repareren",
@@ -1151,7 +1151,7 @@ window.i18nDict.nl = {
 
   /* Information */
   "About Repair Mode": "Over de reparatiemodus",
-  "Use me if your Play Integrity verdict suddenly starts failing after working correctly for some time, or if the Key Attestation app reports your device's bootloader as unlocked even though your keybox is valid. This action performs an advanced attestation reinitialization sequence designed to restore consistency across the integrity verification pipeline.": "Gebruik mij als je Play Integrity-resultaat plotseling begint te falen nadat het een tijd goed werkte, of als de app Key Attestation de bootloader van je apparaat als ontgrendeld meldt terwijl je keybox geldig is. Deze actie voert een geavanceerde herinitialisatie van de attestatie uit om de consistentie in de hele integriteitscontrole te herstellen.",
+  "Use me if your Play Integrity verdict suddenly starts failing after working correctly for some time, or if the Key Attestation app reports your device's bootloader as unlocked even though your keybox is valid. This action performs an advanced attestation reinitialization sequence designed to restore consistency across the integrity verification pipeline.": "Gebruik mij als het Play Integrity-resultaat plotseling faalt nadat het een tijd goed werkte, of als de app Key Attestation meldt dat bij je apparaat de bootloader ontgrendeld is, terwijl je keybox geldig is. Deze actie voert een geavanceerde herinitialisatie van de attestatie uit om de consistentie in de hele integriteitscontrole te herstellen.",
   "Got it": "Begrepen",
 
   /* Help Center */
@@ -1162,11 +1162,11 @@ window.i18nDict.nl = {
   "Report Bug": "Bug melden",
   "Submit issues to Telegram": "Problemen melden via Telegram",
   "Support Group": "Supportgroep",
-  "Join Telegram community": "Word lid van de Telegram-community",
+  "Join Telegram community": "Lid worden van de Telegram-community",
   "Updates Channel": "Updatekanaal",
   "Latest news & releases": "Laatste nieuws & releases",
   "Source Code": "Broncode",
-  "View on GitHub": "Bekijken op GitHub",
+  "View on GitHub": "Op GitHub bekijken",
 
   /* Actions */
   "Export Report": "Rapport exporteren",
@@ -1203,7 +1203,7 @@ window.i18nDict.nl = {
 
   /* Information */
   "These options are intended for": "Deze opties zijn bedoeld voor ",
-  "custom ROM users": "custom ROM-gebruikers",
+  "custom ROM users": "custom-ROM-gebruikers",
   "Choose the desired spoofing state and reboot the device to apply the change.": "Kies de gewenste spoofing-status en herstart het apparaat om de wijziging toe te passen.",
 
   /* Reboot */
@@ -1304,7 +1304,7 @@ window.i18nDict.nl = {
   "Home": "Start",
   "Testing": "In test",
   "Conflict Resolver": "Conflictoplosser",
-  "Fix Multiple ROOT implementation": "Meerdere root-implementaties oplossen",
+  "Fix Multiple ROOT implementation": "Conflict tussen meerdere root-implementaties oplossen",
   "Choose ROOT implementation..": "Kies root-implementatie..",
   "Switched to AOSP Keybox": "Overgeschakeld naar AOSP-keybox",
   "Done, Reopen detector to check": "Klaar, open de detector opnieuw om te controleren",
@@ -1324,14 +1324,14 @@ window.i18nDict.nl = {
   "Pixel-style spoofing for Google Tensor devices": "Spoofing in Pixel-stijl voor apparaten met Google Tensor",
   "Recommended for A13+ ROMs": "Aanbevolen voor ROMs met Android 13+",
   "Recommended for A12 and below": "Aanbevolen voor Android 12 en ouder",
-  "This feature is for custom ROM users who need to hide custom ROM detection by spoofing system properties. If you*re on a stock ROM, you don*t need it, and enabling it may modify system properties unnecessarily and cause compatibility issues.": "Deze functie is bedoeld voor custom ROM-gebruikers die detectie van hun custom ROM moeten verbergen door systeemeigenschappen te spoofen. Op een stock-ROM heb je dit niet nodig; inschakelen kan systeemeigenschappen onnodig wijzigen en compatibiliteitsproblemen veroorzaken.",
+  "This feature is for custom ROM users who need to hide custom ROM detection by spoofing system properties. If you*re on a stock ROM, you don*t need it, and enabling it may modify system properties unnecessarily and cause compatibility issues.": "Deze functie is bedoeld voor custom-ROM-gebruikers die detectie van hun custom ROM moeten verbergen door systeemeigenschappen te spoofen. Op een stock-ROM heb je dit niet nodig; inschakelen kan systeemeigenschappen onnodig wijzigen en compatibiliteitsproblemen veroorzaken.",
   "Duck Props scan skipped by user": "Duck Props-scan overgeslagen door gebruiker",
   "Hook Props scan skipped by user": "Hook Props-scan overgeslagen door gebruiker",
   "Duck Props skipped by user": "Duck Props overgeslagen door gebruiker",
   "Hook Props skipped by user": "Hook Props overgeslagen door gebruiker",
   "dynamic prop(s) found": "dynamische prop(s) gevonden",
   "Google Play services": "Google Play-services",
-  "Use me if your": "Gebruik mij als je ",
+  "Use me if your": "Gebruik mij als het ",
   "verdict suddenly starts": "-resultaat plotseling ",
   "failing after working correctly for some time": "faalt nadat het een tijd goed werkte",
   ", or if the": ", of als de app ",
@@ -1355,7 +1355,7 @@ window.i18nDict.nl = {
   "Type your question...": "Typ je vraag...",
   "Send": "Versturen",
   "Didn’t find what you need?": "Niet gevonden wat je zoekt? ",
-  "Contact Developer": "Contact met ontwikkelaar",
+  "Contact Developer": "Contact opnemen met ontwikkelaar",
   "No matching questions": "Geen passende vragen",
   "Please type a little more detail so I can help 🙂": "Geef iets meer details, dan kan ik je helpen 🙂",
   "I couldn't find an exact match. Please select a FAQ above or contact the developer.": "Ik kon geen exacte match vinden. Kies hierboven een FAQ of neem contact op met de ontwikkelaar.",
@@ -1363,7 +1363,7 @@ window.i18nDict.nl = {
   "Root detection info: Integrity-Box cannot fully hide root by itself.": "Info over root-detectie: Integrity-Box kan root niet in zijn eentje volledig verbergen.",
   "Check our Updates Channel: https://t.me/MeowRedirect": "Kijk in ons updatekanaal: https://t.me/MeowRedirect",
   "Hi bro, please select your query so that I can assist you": "Hoi bro, kies je vraag, dan kan ik je helpen",
-  "Welcome dude, Happy to help you 😊": "Graag gedaan, maat, help je met plezier 😊",
+  "Welcome dude, Happy to help you 😊": "Graag gedaan, maat, ik help je met plezier 😊",
   "Starting from v28, PIF is not needed when using integrity box": "Vanaf v28 is PIF niet meer nodig als je Integrity Box gebruikt",
   "You can report bugs here: https://t.me/TempMeow": "Bugs kun je hier melden: https://t.me/TempMeow",
   "What are the requirements?": "Wat zijn de vereisten?",
@@ -1373,7 +1373,7 @@ window.i18nDict.nl = {
   "Why does my device pass Play Integrity but still fail ‘Device certification / license’ within apps?": "Waarom haalt mijn apparaat Play Integrity, maar faalt het in apps toch op ‘Apparaatcertificering / licentie’?",
   "Passing Play Integrity doesn’t always mean device is certified.": "Play Integrity halen betekent niet altijd dat het apparaat gecertificeerd is.",
   "Google Play certification/licensing checks may also require valid GMS certification, correct vendor‑partition signatures, valid attestation keys, and genuine vendor keybox.": "De certificerings-/licentiecontroles van Google Play kunnen ook een geldige GMS-certificering, correcte handtekeningen van de vendor‑partitie, geldige attestatiesleutels en een echte keybox van de fabrikant vereisen.",
-  "If those are tampered with (by custom ROM, modded firmware, or spoof), apps checking “certified device status” might still fail even if integrity test passes.": "Als daaraan is geknoeid (door een custom ROM, aangepaste firmware of spoofing), kunnen apps die de status ‘gecertificeerd apparaat’ controleren nog steeds falen, ook als de integriteitstest slaagt.",
+  "If those are tampered with (by custom ROM, modded firmware, or spoof), apps checking “certified device status” might still fail even if integrity test passes.": "Als daaraan is geknoeid (door een custom ROM, aangepaste firmware of spoofing), kunnen apps die de status ‘gecertificeerd apparaat’ controleren je apparaat toch afkeuren, ook als de integriteitstest slaagt.",
   "Fix Device not Certified": "‘Apparaat niet gecertificeerd’ oplossen",
   "You need to pass atleast DEVICE INTEGRITY then Open WebUI, Go to FIX DEVICE IS NOT CERTIFIED button, keep in mind that your root & zygisk should be hidden properly, otherwise it won't work.": "Je moet minstens DEVICE INTEGRITY halen. Open daarna de WebUI en tik op de knop FIX DEVICE IS NOT CERTIFIED. Let op: root & Zygisk moeten goed verborgen zijn, anders werkt het niet.",
   "I don't know how to use WebUI": "Ik weet niet hoe ik de WebUI gebruik",
@@ -1413,7 +1413,7 @@ window.i18nDict.nl = {
   "• Use DenyList or Hide‑Magisk + include banking apps.": "• DenyList of Hide‑Magisk gebruiken en de bankapps toevoegen.",
   "• For custom ROMs: avoid prebuilt ROM‑level spoofing that conflicts with your modules.": "• Bij custom ROMs: ingebouwde spoofing op ROM‑niveau vermijden die met je modules botst.",
   "• Use MEOW 2.0 HMA config": "• De MEOW 2.0-HMA-configuratie gebruiken",
-  "Does updating Google Play Services or Play Store break spoofing modules?": "Breken updates van Google Play-services of de Play Store spoofing-modules?",
+  "Does updating Google Play Services or Play Store break spoofing modules?": "Kunnen updates van Google Play-services of de Play Store spoofing-modules onbruikbaar maken?",
   "Often yes. Google Play Services updates may re‑validate keys, vendor certificates or integrity metadata, which may invalidate spoofing or keybox tricks.": "Vaak wel. Updates van Google Play-services kunnen sleutels, certificaten van de fabrikant of integriteitsmetadata opnieuw valideren, waardoor spoofing of keybox-trucs ongeldig kunnen worden.",
   "After such updates, you may need to reapply spoofing or re‑flash/ modules to retain spoofed integrity. Many forum users report requiring re‑spoof after major Play Services updates.": "Na zulke updates moet je de spoofing misschien opnieuw toepassen of modules opnieuw flashen om de gespoofte integriteit te behouden. Veel forumgebruikers melden dat ze na grote updates van Play-services opnieuw moesten spoofen.",
   "How to clean old root traces fully before applying IntegrityBox and spoofing?": "Hoe verwijder ik oude rootsporen volledig voordat ik IntegrityBox en spoofing toepas?",
@@ -1434,7 +1434,7 @@ window.i18nDict.nl = {
   "However, root-hiding + spoofing is a game of cat–mouse and may not work universally.": "Root-hiding + spoofing blijft echter een kat-en-muisspel en werkt niet overal.",
   "Why do banking or wallet apps still detect root even though Play Integrity says 'pass'?": "Waarom detecteren bank- of wallet-apps nog steeds root, terwijl Play Integrity ‘geslaagd’ zegt?",
   "Because Play Integrity is only one part of detection.": "Omdat Play Integrity maar één onderdeel van de detectie is.",
-  "Many apps also perform root/environment detection at runtime. If root-hiding is incomplete or other modules leave traces (e.g. custom recovery folder, SELinux flags, debug props), apps may still detect tampering.": "Veel apps doen tijdens het draaien ook nog root-/omgevingsdetectie. Als root-hiding onvolledig is of andere modules sporen achterlaten (bijv. een custom recovery-map, SELinux-flags, debug-props), kunnen apps de manipulatie toch detecteren.",
+  "Many apps also perform root/environment detection at runtime. If root-hiding is incomplete or other modules leave traces (e.g. custom recovery folder, SELinux flags, debug props), apps may still detect tampering.": "Veel apps doen tijdens het draaien ook nog root-/omgevingsdetectie. Als root-hiding onvolledig is of andere modules sporen achterlaten (bijv. een custom-recovery-map, SELinux-flags, debug-props), kunnen apps de manipulatie toch detecteren.",
   "After an Android update or ROM update, I have to reapply spoofing, why?": "Na een Android- of ROM-update moet ik de spoofing opnieuw toepassen, waarom?",
   "Because system updates or ROM changes often overwrite or reset key system files and security metadata.": "Omdat systeemupdates of ROM-wijzigingen belangrijke systeembestanden en beveiligingsmetadata vaak overschrijven of resetten.",
   "Security‑patch date, vendor partition data, keybox validity and build props may be reset.": "De datum van de beveiligings‑patch, gegevens van de vendor-partitie, keybox-geldigheid en build-props kunnen worden gereset.",
@@ -1457,13 +1457,13 @@ window.i18nDict.nl = {
   "Coupled with IntegrityBox, KernelSU may result in fewer detections than traditional Magisk setups. But results vary by device, ROM, and kernel patches.": "In combinatie met IntegrityBox kan KernelSU tot minder detecties leiden dan klassieke Magisk-setups. De resultaten verschillen echter per apparaat, ROM en kernelpatches.",
   "Does every device / ROM support IntegrityBox equally?": "Ondersteunt elk apparaat / elke ROM IntegrityBox even goed?",
   "No. Results may vary depending on device vendor, Android version, ROM, SELinux mode, kernel, vendor-partition changes, and how 'stock' your firmware is.": "Nee. De resultaten hangen af van de fabrikant, de Android-versie, de ROM, de SELinux-modus, de kernel, wijzigingen aan de vendor-partitie en hoe ‘stock’ je firmware is.",
-  "Custom ROMs or heavy modifications reduce the chance of a clean pass.": "Custom ROMs of zware aanpassingen verkleinen de kans op een schone pass.",
+  "Custom ROMs or heavy modifications reduce the chance of a clean pass.": "Custom ROMs of zware aanpassingen verkleinen de kans dat je de controles probleemloos haalt.",
   "What modules should I avoid to reduce conflicts with IntegrityBox?": "Welke modules moet ik vermijden om conflicten met IntegrityBox te beperken?",
   "Avoid modules that heavily modify system props, SELinux setting, kernel behavior, root-detection hooks, or GMS/Play services tampering. And those modules which modifies tricky store's target.txt": "Vermijd modules die systeem-props, SELinux-instellingen, kernelgedrag of root-detectie-hooks flink aanpassen of aan GMS/Play-services knoeien. En ook modules die de target.txt van Tricky Store wijzigen",
   "Such modules may conflict with integrity spoofing and cause detection failures or boot issues.": "Zulke modules kunnen botsen met de integriteits-spoofing en leiden tot detectie of opstartproblemen.",
   "Is using IntegrityBox a permanent fix or will I need to reconfigure after updates (ROM / kernel)?": "Is IntegrityBox een blijvende oplossing, of moet ik na updates (ROM / kernel) opnieuw configureren?",
   "It’s not guaranteed permanent.": "Het is niet gegarandeerd blijvend.",
-  "System updates, kernel or vendor changes, ROM updates frequently break spoofing or keybox validity; you may need to reapply or re-configure play integrity related after updates.": "Systeemupdates, kernel- of vendor-wijzigingen en ROM-updates breken vaak de spoofing of de geldigheid van de keybox; na updates moet je de Play Integrity-instellingen mogelijk opnieuw toepassen of configureren.",
+  "System updates, kernel or vendor changes, ROM updates frequently break spoofing or keybox validity; you may need to reapply or re-configure play integrity related after updates.": "Systeemupdates, kernel- of vendor-wijzigingen en ROM-updates maken de spoofing of de geldigheid van de keybox vaak teniet; na updates moet je de Play Integrity-instellingen mogelijk opnieuw toepassen of configureren.",
   "Can this break apps?": "Kan dit apps kapotmaken?",
   "No.": "Nee.",
   "The current keybox MEETS DEVICE INTEGRITY": "De huidige keybox haalt DEVICE INTEGRITY",
@@ -1488,9 +1488,9 @@ window.i18nDict.nl = {
   "Thank you for everything, and thank you for being part of the journey": "Bedankt voor alles, en bedankt dat jullie deel uitmaakten van deze reis",
   "I came, I saw, I conquered.": "Ik kwam, ik zag, ik overwon.",
   "- Build, device, fingerprint, and system properties will be spoofed to match a certified device profile recognized by the Play Store. Google services will interpret the device as a Google Pixel device.": " – Build-, apparaat-, fingerprint- en systeemeigenschappen worden zo gespooft dat ze overeenkomen met een gecertificeerd apparaatprofiel dat de Play Store herkent. Google-services zien het apparaat als een Google Pixel.",
-  "- This only spoofs your device fingerprint for the Play Store. Helpful if your device fingerprint got banned by google or broken/completely rekt due to your custom ROM maintainer’s skill issue. Your device will be recognized as a certified Google Pixel device.": " – Spooft alleen de fingerprint van je apparaat voor de Play Store. Handig als je fingerprint door Google is geblokkeerd of kapot/compleet om zeep is geholpen door het gebrek aan skills van je custom ROM-maintainer. Je apparaat wordt herkend als een gecertificeerde Google Pixel.",
-  "- Best suited for Android 12 and below. Works fine as long as your current device fingerprint hasn’t been blacklisted or rekt by your custom ROM maintainer.": " – Het meest geschikt voor Android 12 en ouder. Werkt prima zolang de huidige fingerprint van je apparaat niet op de blacklist staat of door je custom ROM-maintainer is verpest.",
-  "- Nukes GMS files. this can fix or break RCS G-Wallet/Pay.": " – Wist de GMS-bestanden rigoureus. Dit kan RCS en G-Wallet/Pay repareren of juist breken.",
+  "- This only spoofs your device fingerprint for the Play Store. Helpful if your device fingerprint got banned by google or broken/completely rekt due to your custom ROM maintainer’s skill issue. Your device will be recognized as a certified Google Pixel device.": " – Spooft alleen de fingerprint van je apparaat voor de Play Store. Handig als je fingerprint door Google is geblokkeerd of kapot/compleet om zeep is geholpen door het gebrek aan skills van je custom-ROM-maintainer. Je apparaat wordt herkend als een gecertificeerde Google Pixel.",
+  "- Best suited for Android 12 and below. Works fine as long as your current device fingerprint hasn’t been blacklisted or rekt by your custom ROM maintainer.": " – Het meest geschikt voor Android 12 en ouder. Werkt prima zolang de huidige fingerprint van je apparaat niet op de blacklist staat of door je custom-ROM-maintainer is verpest.",
+  "- Nukes GMS files. this can fix or break RCS G-Wallet/Pay.": " – Wist de GMS-bestanden rigoureus. Dit kan RCS en G-Wallet/Pay herstellen, maar ook stukmaken.",
   "- Opens APK Mirror to download an older Play Store version that may help pass integrity. You can try downgrading your playstore version with this version using CorePatch lsposed module": " – Opent APK Mirror om een oudere Play Store-versie te downloaden die kan helpen om de integriteitscontrole te halen. Met de LSPosed-module CorePatch kun je proberen je Play Store naar deze versie te downgraden",
   "- Reset Props: Restores props to stock values": " – Props resetten: zet props terug naar stock-waarden",
   "- Duck Props: Removes mismatched properties detected by duck detector": " – Duck Props: verwijdert afwijkende eigenschappen die Duck Detector vindt",

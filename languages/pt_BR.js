@@ -46,10 +46,10 @@ window.i18nDict.pt_BR = {
 
   "Reset UI settings?": "Redefinir configurações da UI?",
   "All interface settings will be restored to their default values.": "Todas as configurações da interface serão restauradas para os valores padrão.",  "UI Layout": "Layout da UI",
-  "Standard": "Standard",
-  "Enhanced": "Avançado",
+  "Standard": "Padrão",
+  "Enhanced": "Aprimorado",
   "Edge swipe to back": "Deslizar na borda para voltar",
-  "Swipe from the configured screen edge": "Deslize a partir da borda da tela configurada",
+  "Swipe from the configured screen edge": "Deslizar a partir da borda configurada da tela",
   "Full screen mode": "Modo tela cheia",
   "Use the entire display for Integrity Box": "Usar a tela inteira para o Integrity Box",
   "Gradient background": "Fundo em gradiente",
@@ -65,7 +65,7 @@ window.i18nDict.pt_BR = {
   "Floating back button": "Botão voltar flutuante",
   "Show a back button inside opened tools": "Mostrar um botão voltar dentro das ferramentas abertas",
   "Tab swipe navigation": "Navegação por deslize entre abas",
-  "Swipe left/right to change Home, Tools and More": "Deslize para a esquerda/direita para alternar entre Início, Ferramentas e Mais",
+  "Swipe left/right to change Home, Tools and More": "Deslizar para a esquerda/direita para alternar entre Início, Ferramentas e Mais",
   "Edge gesture side": "Lado do gesto de borda",
   "Left edge": "Borda esquerda",
   "Right edge": "Borda direita",
@@ -106,9 +106,9 @@ window.i18nDict.pt_BR = {
   /* Tools */
   "Tools": "Ferramentas",
   "Keybox": "Keybox",
-  "Keybox Downloader": "Downloader de Keybox",
-  "Download and modify Keybox source": "Baixe e modifique a fonte da keybox",
-  "Import Keybox": "Importar Keybox",
+  "Keybox Downloader": "Downloader de keybox",
+  "Download and modify Keybox source": "Baixar e modificar a fonte da keybox",
+  "Import Keybox": "Importar keybox",
   "Set keybox from internal storage": "Definir keybox a partir do armazenamento interno",
   "Auto Pilot": "Piloto automático",
   "Auto-update keybox and fingerprint": "Atualizar keybox e fingerprint automaticamente",
@@ -135,7 +135,7 @@ window.i18nDict.pt_BR = {
   "Report a Problem": "Relatar um problema",
   "Send feedback to the developer": "Enviar feedback ao desenvolvedor",
   "Ask Assistant": "Perguntar ao assistente",
-  "Get help and guidance": "Obtenha ajuda e orientação",
+  "Get help and guidance": "Obter ajuda e orientação",
   "WebUI Translation Team": "Equipe de tradução da WebUI",
   "Thanks to these people": "Obrigado a essas pessoas",
   "Resources": "Recursos",
@@ -175,7 +175,7 @@ window.i18nDict.pt_BR = {
   "Apps prevented from accessing keybox": "Apps impedidos de acessar a keybox",
   "Advanced Spoofing": "Spoofing avançado",
   "Boot Hash Config": "Configuração do Boot Hash",
-  "RUNTIME": "TEMPO DE EXECUÇÃO",
+  "RUNTIME": "TEMPO DE ATIVIDADE",
 
   /* Integrity Status */
   "Strong Integrity": "Strong Integrity",
@@ -237,7 +237,7 @@ window.i18nDict.pt_BR = {
   "These doesn't require reboot": "Estas não exigem reinício",
   "These are for custom ROM users": "Estas são para usuários de custom ROM",
   "Updates keybox & fp automatically whether a new key is available": "Atualiza keybox e fingerprint automaticamente sempre que houver uma nova chave disponível",
-  "Some useful stuff you may need": "Umas coisas úteis que você pode precisar",
+  "Some useful stuff you may need": "Algumas coisas úteis de que você pode precisar",
   "Paste your boot hash buddy": "Cola seu boot hash aí, parceiro",
   "Boot hash operation complete": "Operação de boot hash concluída",
   "Opening...": "Abrindo...",
@@ -398,7 +398,7 @@ window.i18nDict.pt_BR = {
   "Auto Run": "Execução automática",
   "Safe Mode is enabled to prevent custom-ROM-specific features from being used on stock ROM, where they may cause compatibility issues or unexpected behavior. If you’re using a custom ROM or understand the risks of enabling these features on stock firmware, you can disable Safe Mode from Advanced Mode.": "O modo seguro está ativado para impedir que recursos específicos de custom ROM sejam usados em ROM stock, onde podem causar problemas de compatibilidade ou comportamento inesperado. Se você usa uma custom ROM ou entende os riscos de ativar esses recursos em firmware stock, pode desativar o modo seguro no modo avançado.",
   "Enabling this forces every prop to be set to its correct value, whether it already exists or not. Disabling it only modifies props that already exist on your device and skips non-existing props by default.": "Com isto ativado, todas as props são definidas com o valor correto, existam ou não. Desativado, só são modificadas as props que já existem no seu dispositivo, e as inexistentes são ignoradas por padrão.",
-  "What do these do?": "O que isso faz?",
+  "What do these do?": "O que estas opções fazem?",
   "These settings requires reboot": "Estas configurações exigem reinício",
   "This will be done via action button": "Isso será feito pelo botão de ação",
   "General": "Geral",
@@ -417,7 +417,7 @@ window.i18nDict.pt_BR = {
   "Spoof Encryption": "Falsificar criptografia",
   "Spoof SELinux": "Falsificar SELinux",
   "Hide PIF Detection": "Ocultar detecção do PIF",
-  "Hide SUS Files": "Ocultar arquivos SUS",
+  "Hide SUS Files": "Ocultar arquivos suspeitos",
   "Hide Recovery": "Ocultar recovery",
   "Skip System Patch": "Pular patch do sistema",
 
@@ -478,7 +478,7 @@ window.i18nDict.pt_BR = {
   "No Mention Tags": "Sem tags de menção",
   "Spoof CMDline": "Falsificar CMDline",
   "Spoof Kernel": "Falsificar kernel",
-  "All of Above": "Todos acima",
+  "All of Above": "Todas as anteriores",
   "bootloop / soft brick risk": "risco de bootloop / soft brick",
   "bootloop / hard brick risk": "risco de bootloop / hard brick",
 
@@ -597,7 +597,7 @@ window.i18nDict.pt_BR = {
   "Error": "Erro",
   
   /* Keybox Loader */
-  "Keybox Loader": "Carregador de Keybox",
+  "Keybox Loader": "Carregador de keybox",
   "XML keyboxes found in your Download folder": "Keyboxes XML encontradas na sua pasta Download",
   "Available Keyboxes": "Keyboxes disponíveis",
   "Scanning...": "Procurando...",
@@ -614,7 +614,7 @@ window.i18nDict.pt_BR = {
   "Unknown date": "Data desconhecida",
 
   /* Confirmation */
-  "Set Keybox": "Definir Keybox",
+  "Set Keybox": "Definir keybox",
   "Choose destination": "Escolha o destino",
   "Cancel": "Cancelar",
 
@@ -668,7 +668,7 @@ window.i18nDict.pt_BR = {
   "Source Selection": "Seleção de fonte",
   "Each download session allows you to choose only one keybox source. Using multiple sources at the same time isn’t supported because the files could conflict with one another": "Em cada sessão de download você pode escolher só uma fonte de keybox. Usar várias fontes ao mesmo tempo não é suportado, porque os arquivos podem entrar em conflito entre si",
   "Skip Integrity Box toggle": "Opção “Pular Integrity Box”",
-  "When you click the ACTION button, the default IntegrityBox keybox source will be disabled, and the unofficial source you selected will be used instead": "Quando você toca no botão ACTION, a fonte de keybox padrão do IntegrityBox é desativada e a fonte não oficial que você escolheu passa a ser usada",
+  "When you click the ACTION button, the default IntegrityBox keybox source will be disabled, and the unofficial source you selected will be used instead": "Quando você toca no botão de ação, a fonte de keybox padrão do IntegrityBox é desativada e a fonte não oficial que você escolheu passa a ser usada",
   "Download Button": "Botão Baixar",
   "You can download the keybox from any of the unofficial sources mentioned above by clicking the Download button. The downloaded keybox will automatically replace the existing keybox at its current path, so no manual changes or configuration are required": "Você pode baixar a keybox de qualquer uma das fontes não oficiais acima tocando no botão Baixar. A keybox baixada substitui automaticamente a keybox existente no caminho atual, então não é preciso fazer nenhuma alteração ou configuração manual",
   
@@ -694,8 +694,8 @@ window.i18nDict.pt_BR = {
   "Select Mode": "Selecionar modo",
   "Choose an execution mode to view details": "Escolha um modo de execução para ver os detalhes",
   "Xtreme Mode Active": "Modo Xtreme ativo",
-  "Executes complete automation: Keybox injection, fingerprint spoofing, target configuration, and system patching.": "Executa a automação completa: injeção da keybox, spoofing do fingerprint, configuração de targets e patch do sistema.",
-  "Performs single keybox injection only. Minimal footprint for attestation bypass.": "Faz apenas a injeção da keybox. Pegada mínima para burlar a atestação.",
+  "Executes complete automation: Keybox injection, fingerprint spoofing, target configuration, and system patching.": "Executa a automação completa: injeção da keybox, spoofing do fingerprint, configuração de alvos e patch do sistema.",
+  "Performs single keybox injection only. Minimal footprint for attestation bypass.": "Faz apenas a injeção da keybox. Impacto mínimo para burlar a atestação.",
 
   /* Loader */
   "Processing...": "Processando...",
@@ -799,7 +799,7 @@ window.i18nDict.pt_BR = {
   "Droidguard Spoofer": "Spoofer do DroidGuard",
 
   /* Information */
-  "What do these do?": "O que isso faz?",
+  "What do these do?": "O que estas opções fazem?",
 
   /* Zygisk Injection */
   "Zygisk Injection": "Injeção do Zygisk",
@@ -902,7 +902,7 @@ window.i18nDict.pt_BR = {
 
   /* Action Information */
   "Actions": "Ações",
-  "Nukes GMS files. this can fix or break RCS G-Wallet/Pay.": "Apaga radicalmente os arquivos do GMS. Isso pode consertar ou quebrar RCS e G-Wallet/Pay.",
+  "Nukes GMS files. this can fix or break RCS G-Wallet/Pay.": "Apaga completamente os arquivos do GMS. Isso pode consertar ou quebrar o RCS e o G-Wallet/Pay.",
   "Opens APK Mirror to download an older Play Store version that may help pass integrity. You can try downgrading your playstore version with this version using CorePatch lsposed module": "Abre o APK Mirror para baixar uma versão antiga da Play Store que pode ajudar a passar na integridade. Você pode tentar fazer downgrade da Play Store para essa versão com o módulo LSPosed CorePatch",
 
   /* Loader */
@@ -1160,9 +1160,9 @@ window.i18nDict.pt_BR = {
 
   /* Support */
   "Report Bug": "Relatar bug",
-  "Submit issues to Telegram": "Envie problemas pelo Telegram",
+  "Submit issues to Telegram": "Enviar problemas pelo Telegram",
   "Support Group": "Grupo de suporte",
-  "Join Telegram community": "Entre na comunidade do Telegram",
+  "Join Telegram community": "Entrar na comunidade do Telegram",
   "Updates Channel": "Canal de atualizações",
   "Latest news & releases": "Últimas notícias e versões",
   "Source Code": "Código-fonte",
@@ -1306,7 +1306,7 @@ window.i18nDict.pt_BR = {
   "Conflict Resolver": "Resolvedor de conflitos",
   "Fix Multiple ROOT implementation": "Corrigir múltiplas implementações de ROOT",
   "Choose ROOT implementation..": "Escolha a implementação de ROOT..",
-  "Switched to AOSP Keybox": "Alterado para a Keybox AOSP",
+  "Switched to AOSP Keybox": "Alterado para a keybox AOSP",
   "Done, Reopen detector to check": "Pronto, reabra o detector para verificar",
   "Spoofed to Enforcing": "Falsificado para Enforcing",
   "Empty shell command": "Comando de shell vazio",
@@ -1324,7 +1324,7 @@ window.i18nDict.pt_BR = {
   "Pixel-style spoofing for Google Tensor devices": "Spoofing estilo Pixel para dispositivos com Google Tensor",
   "Recommended for A13+ ROMs": "Recomendado para ROMs Android 13+",
   "Recommended for A12 and below": "Recomendado para Android 12 ou anterior",
-  "This feature is for custom ROM users who need to hide custom ROM detection by spoofing system properties. If you*re on a stock ROM, you don*t need it, and enabling it may modify system properties unnecessarily and cause compatibility issues.": "Este recurso é para usuários de custom ROM que precisam esconder a detecção da custom ROM falsificando propriedades do sistema. Se você usa uma ROM stock, não precisa dele, e ativá-lo pode modificar propriedades do sistema sem necessidade e causar problemas de compatibilidade.",
+  "This feature is for custom ROM users who need to hide custom ROM detection by spoofing system properties. If you*re on a stock ROM, you don*t need it, and enabling it may modify system properties unnecessarily and cause compatibility issues.": "Este recurso é para usuários de custom ROM que precisam evitar a detecção da custom ROM falsificando propriedades do sistema. Se você usa uma ROM stock, não precisa dele, e ativá-lo pode modificar propriedades do sistema sem necessidade e causar problemas de compatibilidade.",
   "Duck Props scan skipped by user": "Scan de Duck Props ignorado pelo usuário",
   "Hook Props scan skipped by user": "Scan de Hook Props ignorado pelo usuário",
   "Duck Props skipped by user": "Duck Props ignoradas pelo usuário",
@@ -1402,7 +1402,7 @@ window.i18nDict.pt_BR = {
   "A commonly recommended setup is:": "Um setup bastante recomendado é:",
   "• Integrity‑Box (for props/keybox spoofing)": "• Integrity-Box (para spoofing de props/keybox)",
   "• Clean zygote injection layer (e.g. Zygisk Next)": "• Uma camada limpa de injeção no Zygote (ex.: Zygisk Next)",
-  "• DenyList / Hide‑Magisk‑Manager (so root‑manager app isn’t visible) or use spoofed version of KSU manager": "• DenyList / ocultar o Magisk Manager (para o app gerenciador de root não ficar visível) ou usar uma versão falsificada do gerenciador do KSU",
+  "• DenyList / Hide‑Magisk‑Manager (so root‑manager app isn’t visible) or use spoofed version of KSU manager": "• DenyList / ocultar o Magisk Manager (para o app gerenciador de root não ficar visível) ou usar uma versão disfarçada do gerenciador do KSU",
   "• Clear Play Store + Google Services data after flashing/patching": "• Limpar os dados da Play Store + Google Services depois de instalar/aplicar patches",
   "• Reboot and test using Play Integrity checker/app": "• Reiniciar e testar com um app verificador de Play Integrity",
   "This combo is often suggested for rooted phones on custom ROMs to pass checks and run banking/UPI apps.": "Essa combinação é muito sugerida para celulares com root em custom ROMs para passar nas verificações e usar apps de banco/UPI.",
@@ -1476,7 +1476,7 @@ window.i18nDict.pt_BR = {
   "Configure module settings during fresh installation": "Configurar o módulo durante a instalação limpa",
   ": Some settings currently require a reboot before they can be configured. I plan to allow them to be configured during the initial installation instead of displaying the WebUI after the reboot.": " : Algumas configurações hoje exigem um reinício antes de poderem ser configuradas. Pretendo permitir que elas sejam configuradas já na instalação inicial, em vez de mostrar a WebUI depois do reinício.",
   "Deprecate Bootloader Spoofer UI checks": "Descontinuar as verificações da UI do Spoofer de bootloader",
-  ": I'm talking about the loading screen you see when opening the Bootloader Spoofer UI. Its main purpose is to clean up the target list, which sometimes get heavily bloated by other modules that blindly add almost every package installed on the device. Processing such an unnecessarily large list can contribute to higher battery consumption and increased device heating.": " : Estou falando da tela de carregamento que aparece ao abrir a UI do Spoofer de bootloader. O objetivo principal dela é limpar a lista de targets, que às vezes fica muito inchada por outros módulos que adicionam às cegas quase todos os pacotes instalados no dispositivo. Processar uma lista desnecessariamente grande assim pode contribuir para um consumo maior de bateria e mais aquecimento do dispositivo.",
+  ": I'm talking about the loading screen you see when opening the Bootloader Spoofer UI. Its main purpose is to clean up the target list, which sometimes get heavily bloated by other modules that blindly add almost every package installed on the device. Processing such an unnecessarily large list can contribute to higher battery consumption and increased device heating.": " : Estou falando da tela de carregamento que aparece ao abrir a UI do Spoofer de bootloader. O objetivo principal dela é limpar a lista de alvos, que às vezes fica muito inchada por outros módulos que adicionam às cegas quase todos os pacotes instalados no dispositivo. Processar uma lista desnecessariamente grande assim pode contribuir para um consumo maior de bateria e mais aquecimento do dispositivo.",
   "High FPS Unlocker for games": "Desbloqueador de FPS alto para jogos",
   ": I may introduce this if I get some free time.": " : Talvez eu adicione isso se tiver um tempo livre.",
   "For now, these are the changes I have planned. More changes may be added along the way.": "Por enquanto, essas são as mudanças planejadas. Outras podem ser adicionadas no caminho.",
@@ -1490,7 +1490,7 @@ window.i18nDict.pt_BR = {
   "- Build, device, fingerprint, and system properties will be spoofed to match a certified device profile recognized by the Play Store. Google services will interpret the device as a Google Pixel device.": " – As propriedades de build, dispositivo, fingerprint e sistema serão falsificadas para corresponder a um perfil de dispositivo certificado reconhecido pela Play Store. Os serviços do Google vão enxergar o dispositivo como um Google Pixel.",
   "- This only spoofs your device fingerprint for the Play Store. Helpful if your device fingerprint got banned by google or broken/completely rekt due to your custom ROM maintainer’s skill issue. Your device will be recognized as a certified Google Pixel device.": " – Isso só falsifica o fingerprint do seu dispositivo para a Play Store. Útil se o fingerprint do seu dispositivo foi banido pelo Google ou ficou quebrado/totalmente detonado por falta de skill do mantenedor da sua custom ROM. Seu dispositivo será reconhecido como um Google Pixel certificado.",
   "- Best suited for Android 12 and below. Works fine as long as your current device fingerprint hasn’t been blacklisted or rekt by your custom ROM maintainer.": " – Mais indicado para Android 12 ou anterior. Funciona bem desde que o fingerprint atual do seu dispositivo não esteja na blacklist nem tenha sido detonado pelo mantenedor da sua custom ROM.",
-  "- Nukes GMS files. this can fix or break RCS G-Wallet/Pay.": " – Apaga radicalmente os arquivos do GMS. Isso pode consertar ou quebrar RCS e G-Wallet/Pay.",
+  "- Nukes GMS files. this can fix or break RCS G-Wallet/Pay.": " – Apaga completamente os arquivos do GMS. Isso pode consertar ou quebrar o RCS e o G-Wallet/Pay.",
   "- Opens APK Mirror to download an older Play Store version that may help pass integrity. You can try downgrading your playstore version with this version using CorePatch lsposed module": " – Abre o APK Mirror para baixar uma versão antiga da Play Store que pode ajudar a passar na integridade. Você pode tentar fazer downgrade da Play Store para essa versão com o módulo LSPosed CorePatch",
   "- Reset Props: Restores props to stock values": " – Redefinir props: restaura as props para os valores stock",
   "- Duck Props: Removes mismatched properties detected by duck detector": " – Duck Props: remove propriedades divergentes detectadas pelo Duck Detector",

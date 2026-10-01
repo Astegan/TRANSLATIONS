@@ -191,7 +191,7 @@ window.i18nDict.it = {
   "Unofficial Keybox": "Keybox non ufficiale",
 
   /* Dashboard Status Values */
-  "Enabled": "Attivo",
+  "Enabled": "Attivato",
   "Disabled": "Disattivato",
   "Detected": "Rilevato",
   "Spoofed": "Spoofato",
@@ -212,7 +212,7 @@ window.i18nDict.it = {
   "Switched to Blacklist Mode": "Passato alla modalità blacklist",
   "Switched to Whitelist Mode": "Passato alla modalità whitelist",
   "Scanning xml files..": "Ricerca file xml..",
-  "Spoof your device to app": "Spoofa il tuo dispositivo verso le app",
+  "Spoof your device to app": "Spoofa il tuo dispositivo per le app",
   "Opening configuration..": "Apertura configurazione..",
   "All changes will be applied immediately": "Tutte le modifiche verranno applicate subito",
   "These will be applied till reboot": "Queste resteranno attive fino al riavvio",
@@ -237,7 +237,7 @@ window.i18nDict.it = {
   "These doesn't require reboot": "Queste non richiedono il riavvio",
   "These are for custom ROM users": "Queste sono per chi usa una custom ROM",
   "Updates keybox & fp automatically whether a new key is available": "Aggiorna keybox e fingerprint automaticamente quando è disponibile una nuova chiave",
-  "Some useful stuff you may need": "Qualche cosa utile che potrebbe servirti",
+  "Some useful stuff you may need": "Alcune cose utili che potrebbero servirti",
   "Paste your boot hash buddy": "Incolla il tuo boot hash, amico",
   "Boot hash operation complete": "Operazione boot hash completata",
   "Opening...": "Apertura...",
@@ -507,16 +507,16 @@ window.i18nDict.it = {
   "Using alternate fallback method": "Uso del metodo alternativo di riserva",
   "Downloads will use default method": "I download useranno il metodo predefinito",
   "Custom recovery spoofed": "Custom recovery spoofata",
-  "Custom recovery disabled": "Custom recovery disattivata",
+  "Custom recovery disabled": "Occultamento recovery disattivato",
   "OMK Pixel disabled": "OMK Pixel disattivato",
   "OMK Pixel enabled": "OMK Pixel attivato",
   "TEEsim modifications will be ignored": "Le modifiche TEEsim verranno ignorate",
   "TEEsim will be updated by default": "TEEsim verrà aggiornato per impostazione predefinita",
   "Please reboot your device": "Riavvia il dispositivo",
   "Encryption spoofed": "Crittografia spoofata",
-  "Encryption disabled": "Crittografia disattivata",
+  "Encryption disabled": "Spoofing crittografia disattivato",
   "LSposed cleared": "LSposed pulito",
-  "LSposed disabled": "LSposed disattivato",
+  "LSposed disabled": "Pulizia LSposed disattivata",
   "Debug fingerprint spoofed": "Fingerprint di debug spoofato",
   "Debug fingerprint disabled": "Fingerprint di debug disattivato",
   "Debug build spoofed": "Build di debug spoofata",
@@ -545,7 +545,7 @@ window.i18nDict.it = {
   "Action Flags": "Flag di azione",
   "Kernel (requires reboot)": "Kernel (richiede riavvio)",
   "Flag:": "Flag: ",
-  "Enabled": "Attivo",
+  "Enabled": "Attivato",
   "Disabled": "Disattivato",
   
   /* Hide My Files */
@@ -814,7 +814,7 @@ window.i18nDict.it = {
   "Strong Mode": "Modalità Strong",
   "Verbose Mode": "Modalità dettagliata",
   "Skip JSON": "Salta JSON",
-  "Skip Key": "Salta key",
+  "Skip Key": "Salta chiave",
 
   /* Behaviour Descriptions */
   "Enabling this will preserve spoofing settings otherwise they'll be reset automatically when you run action. Please do not disable this toggle.": "Se attivo, le impostazioni di spoofing vengono mantenute; altrimenti verranno ripristinate automaticamente quando esegui l’azione. Per favore non disattivare questo interruttore.",
@@ -857,7 +857,7 @@ window.i18nDict.it = {
   "Zygisk injection is paused": "L’iniezione Zygisk è in pausa",
   "zygiskless mode has been enabled": "La modalità senza Zygisk è stata attivata",
   "A10 mode enabled, others disabled": "Modalità A10 attivata, le altre disattivate",
-  "Enabled": "Attivo",
+  "Enabled": "Attivato",
   "Disabled": "Disattivato",
   "Services restarted": "Servizi riavviati",
 
@@ -1247,7 +1247,7 @@ window.i18nDict.it = {
   "Unknown error": "Errore sconosciuto",
   
   /* Bootloader Spoofer */
-  "Bootloader Spoofer": "Bootloader Spoofer",
+  "Bootloader Spoofer": "Spoofer bootloader",
   "Powered by Integrity Box": "Powered by Integrity Box",
 
   /* Search & Stats */
@@ -1256,7 +1256,7 @@ window.i18nDict.it = {
   "Spoofed": "Spoofato",
   "Blocked": "Bloccato",
   "Spoof All": "Spoofa tutte",
-  "Blacklist All": "Tutte in blacklist",
+  "Blacklist All": "Metti tutte in blacklist",
   "No apps match your search": "Nessuna app corrisponde alla ricerca",
 
   /* Actions */
@@ -1264,7 +1264,7 @@ window.i18nDict.it = {
   "Restore": "Ripristina",
 
   /* Information */
-  "About Bootloader Spoofer": "Info sul Bootloader Spoofer",
+  "About Bootloader Spoofer": "Info sullo spoofer bootloader",
   "Checked apps will be able to use the keybox to pass Play Integrity checks.": "Le app spuntate potranno usare la keybox per superare i controlli Play Integrity.",
   "Blacklist": "Blacklist",
   "Blacklisted apps are excluded entirely. They are removed from spoofed and blocked from processing. Removing an app from the blacklist automatically restores it to spoofed.": "Le app in blacklist sono escluse del tutto. Vengono rimosse dalla lista spoofing e bloccate dall’elaborazione. Togliendo un’app dalla blacklist, torna automaticamente nella lista spoofing.",
@@ -1310,7 +1310,7 @@ window.i18nDict.it = {
   "Done, Reopen detector to check": "Fatto, riapri il detector per verificare",
   "Spoofed to Enforcing": "Spoofato su Enforcing",
   "Empty shell command": "Comando shell vuoto",
-  "Shell failed": "Shell non riuscita",
+  "Shell failed": "Errore della shell",
   "Shell command timed out": "Timeout del comando shell",
   "Integrity Box Support": "Supporto Integrity Box",
   "Markdown renderer unavailable": "Renderer Markdown non disponibile",
@@ -1345,7 +1345,7 @@ window.i18nDict.it = {
   "Place a keybox XML anywhere inside": "Metti un file XML della keybox in qualsiasi punto di",
   "Shell unavailable": "Shell non disponibile",
   "Spoof All Apps": "Spoofa tutte le app",
-  "Blacklist All Apps": "Tutte le app in blacklist",
+  "Blacklist All Apps": "Metti tutte le app in blacklist",
   "ksu/runShell not found": "ksu/runShell non trovato",
   "IntegrityBox Assistant": "Assistente IntegrityBox",
   "Select a question or ask manually below": "Scegli una domanda o scrivila tu qui sotto",
@@ -1474,14 +1474,14 @@ window.i18nDict.it = {
   "TO BE ADDED IN v44": "IN ARRIVO NELLA v44",
   "Ability to download Keybox from multiple sources": "Possibilità di scaricare la keybox da più fonti",
   "Configure module settings during fresh installation": "Configurare le impostazioni del modulo durante la prima installazione",
-  ": Some settings currently require a reboot before they can be configured. I plan to allow them to be configured during the initial installation instead of displaying the WebUI after the reboot.": " : Alcune impostazioni al momento richiedono un riavvio prima di poter essere configurate. Ho intenzione di permettere di configurarle già durante l’installazione iniziale, invece di mostrare la WebUI dopo il riavvio.",
-  "Deprecate Bootloader Spoofer UI checks": "Eliminare i controlli nella UI del Bootloader Spoofer",
-  ": I'm talking about the loading screen you see when opening the Bootloader Spoofer UI. Its main purpose is to clean up the target list, which sometimes get heavily bloated by other modules that blindly add almost every package installed on the device. Processing such an unnecessarily large list can contribute to higher battery consumption and increased device heating.": " : Parlo della schermata di caricamento che vedi quando apri la UI del Bootloader Spoofer. Il suo scopo principale è ripulire la lista dei target, che a volte viene gonfiata parecchio da altri moduli che aggiungono alla cieca quasi ogni pacchetto installato sul dispositivo. Elaborare una lista così inutilmente lunga può contribuire a un maggiore consumo della batteria e a un maggiore surriscaldamento del dispositivo.",
+  ": Some settings currently require a reboot before they can be configured. I plan to allow them to be configured during the initial installation instead of displaying the WebUI after the reboot.": ": Alcune impostazioni al momento richiedono un riavvio prima di poter essere configurate. Ho intenzione di permettere di configurarle già durante l’installazione iniziale, invece di mostrare la WebUI dopo il riavvio.",
+  "Deprecate Bootloader Spoofer UI checks": "Eliminare i controlli nella UI dello spoofer bootloader",
+  ": I'm talking about the loading screen you see when opening the Bootloader Spoofer UI. Its main purpose is to clean up the target list, which sometimes get heavily bloated by other modules that blindly add almost every package installed on the device. Processing such an unnecessarily large list can contribute to higher battery consumption and increased device heating.": ": Parlo della schermata di caricamento che vedi quando apri la UI dello spoofer bootloader. Il suo scopo principale è ripulire la lista dei target, che a volte viene gonfiata parecchio da altri moduli che aggiungono alla cieca quasi ogni pacchetto installato sul dispositivo. Elaborare una lista così inutilmente lunga può contribuire a un maggiore consumo della batteria e a un maggiore surriscaldamento del dispositivo.",
   "High FPS Unlocker for games": "High FPS Unlocker per i giochi",
-  ": I may introduce this if I get some free time.": " : Potrei introdurlo se trovo un po’ di tempo libero.",
+  ": I may introduce this if I get some free time.": ": Potrei introdurlo se trovo un po’ di tempo libero.",
   "For now, these are the changes I have planned. More changes may be added along the way.": "Per ora queste sono le modifiche che ho in programma. Strada facendo potrebbero aggiungersene altre.",
   "A Note About the Future": "Una nota sul futuro",
-  "I’m no longer as interested in building and releasing projects as I once was, and": "Non sono più interessato a creare e pubblicare progetti come una volta, e ",
+  "I’m no longer as interested in building and releasing projects as I once was, and": "Non mi interessa più creare e pubblicare progetti quanto un tempo, e ",
   "I simply don’t have the time for this hobby anymore": "semplicemente non ho più tempo per questo hobby",
   ". So, at some point, I’ll be discontinuing this project.": ". Quindi, prima o poi, interromperò questo progetto.",
   "I’m grateful to everyone who used my work and supported me throughout the journey. Every bit of feedback, motivation, and encouragement helped me learn something new and pushed me to keep going.": "Sono grato a tutti quelli che hanno usato il mio lavoro e mi hanno supportato lungo il percorso. Ogni feedback, ogni motivazione e ogni incoraggiamento mi ha aiutato a imparare qualcosa di nuovo e mi ha spinto ad andare avanti.",
