@@ -1,3 +1,4 @@
+/* Nederlands: not yet reviewed by a native speaker. Corrections are welcome. */
 window.i18nDict = window.i18nDict || {};
 window.i18nDict.nl = {
   /* Main Page */

@@ -1,3 +1,4 @@
+/* Português (Brasil): not yet reviewed by a native speaker. Corrections are welcome. */
 window.i18nDict = window.i18nDict || {};
 window.i18nDict.pt_BR = {
   /* Main Page */
